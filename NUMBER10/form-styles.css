@@ -1,0 +1,22 @@
+
+button{
+    background-color: green;
+    color: white;
+    margin: 10px;
+}
+form{
+    margin: 10px;
+}
+.email{
+    width: 300px;
+}
+.name{
+    width: 300px;
+}
+.password{
+    width: 300px;
+
+}
+.number{
+    width: 300px;
+}
